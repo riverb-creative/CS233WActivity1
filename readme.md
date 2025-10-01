@@ -1,6 +1,6 @@
-#Project: CS233W Week 1 Activity
-##Author: River Breazile
-###Date: 10/01/2025
+# Project: CS233W Week 1 Activity<br/>
+## Author: River Breazile<br/>
+### Date: 10/01/2025<br/>
 _Description: experimenting with creating a basic Express.js web server and connecting local and remote repositories._
 1. ~~Create local repository~~
 2. ~~Install the Express.js framework~~
