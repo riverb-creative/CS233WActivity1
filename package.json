@@ -1,0 +1,23 @@
+{
+  "name": "cs233w-week1activity",
+  "version": "1.0.0",
+  "description": "CS 233W Week 1 Activity",
+  "homepage": "https://github.com/riverb-creative/CS233WActivity1#readme",
+  "bugs": {
+    "url": "https://github.com/riverb-creative/CS233WActivity1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riverb-creative/CS233WActivity1.git"
+  },
+  "license": "ISC",
+  "author": "River Breazile",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
