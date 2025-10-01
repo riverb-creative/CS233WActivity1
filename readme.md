@@ -8,3 +8,4 @@ _Description: experimenting with creating a basic Express.js web server and conn
 4. ~~Connect local repository to remote repository~~
 5. ~~Stage and push changes to the remote repository~~
 6. Create documentation
+7. ~~Add .gitignore file~~
