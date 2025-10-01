@@ -2,10 +2,10 @@
 ## Author: River Breazile<br/>
 ### Date: 10/01/2025<br/>
 _Description: experimenting with creating a basic Express.js web server and connecting local and remote repositories._
-1. ~~Create local repository~~
-2. ~~Install the Express.js framework~~
-3. ~~Code and test a basic server page~~
-4. ~~Connect local repository to remote repository~~
-5. ~~Stage and push changes to the remote repository~~
-6. Create documentation
-7. ~~Add .gitignore file~~
+- [x] Create local repository
+- [x] Install the Express.js framework
+- [x] Code and test a basic server page
+- [x] Connect local repository to remote repository
+- [x] Stage and push changes to the remote repository
+- [ ] Create documentation
+- [x] Add .gitignore file
